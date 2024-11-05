@@ -1,7 +1,9 @@
 # Урок 8. Протокол OAuth 2.0
 
 > [Практические задания на тему OAuth 2.0](https://portswigger.net/web-security/oauth#flawed-scope-validation)
+
 > [Методичка](https://gbcdn.mrgcdn.ru/uploads/asset/4599814/attachment/42561454d080205bb4dc65e0552cf05d.pdf)
+
 > [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/4599821/attachment/424f2430b4bc6778a5c1b8f359f2b362.pdf)
 
 Найдите ресурс, на котором реализован протокол OAuth 2.0. Изучите реализацию протокола, ответьте на вопросы:
